@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ZeeShine.ComponentModel.ServiceHub
+namespace ZeeShine.ComponentModel.Attributes
 {
     /// <summary>
     /// 

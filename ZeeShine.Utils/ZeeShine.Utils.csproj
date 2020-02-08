@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Authors>kez</Authors>
+    <PackageProjectUrl>https://github.com/kekekeke4/ZeeShine</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
